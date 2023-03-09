@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Getting Started with HTML</title>
+    </head>
+    <body>
+    <h1>Getting Started with HTML</h1>
+      <p> This is an example of paragraph</p>
+    <h2>Our First Webpage</h2>  
+    
+    <a href ="http:// www.google.com>"Go to google </a>
+    </body>
+</html>
